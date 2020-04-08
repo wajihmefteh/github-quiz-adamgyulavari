@@ -1,6 +1,6 @@
 # Your personal details
-### First name: Ádám
-### Last name: Gyulavári
+### First name: Adam
+### Last name: Gyulavari
 
 
 ## 1. Which of the descriptions below accurately describes Git?
@@ -29,6 +29,10 @@
 
 ## 5. How can you format code in VSCode?
 - **Ctrl + Alt/Option + F**
-- Shift + Alt/Option + F
-- Ctrl + Shift + I
+- **Shift + Alt/Option + F**
+- **Ctrl + Shift + I**
 - Shift + Alt/Option + I
+
+> Note: The correct answer to this last one is the second for Windows and Mac and the third for Linux.
+
+> The first answer is bold too, because until 12:00 it was mistakenly the correct one, since then it is corrected
